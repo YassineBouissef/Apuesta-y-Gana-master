@@ -1,0 +1,16 @@
+- La base de datos (archivo que se llama "bd") la debes cargar en phpmyadmin
+Yo le puse TIN_project de nombre.
+
+- cuando abras el proyecto en el spoon, ejecuta "ProyectoTIN.kjb" si hay suerte
+(que no la habrá) funcionará. Si no funciona, asegúrate de que las rutas de los ficheros
+son correctas.
+
+A mi ahora mismo me funciona (rellena 3 tablas), falta:
+- completar los equipos: en la carpeta fuentes hay un fichero que se llama teams, 
+si lo abres con sublime puedes editarlo, el formato es:
+
+atributo1;atributo2;atribu.......;atributoN
+dato1;dato2;dato..............;datoN
+
+- Pensar más dimensiones que meter (la geográfica por ejemplo) 
+

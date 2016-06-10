@@ -1,0 +1,6 @@
+1- Descargar  Pentaho Report Designer
+2- Realizar conexion con phpMyAdmin en Penatho Report Designer
+3- Hacer una consulta.
+4- Copiar y pegar en Pentaho Report Designer
+5- Modificar el informe y editar
+6- Descargar
